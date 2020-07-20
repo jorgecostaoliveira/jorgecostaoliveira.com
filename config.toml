@@ -21,7 +21,6 @@ publishdir = "public"
 
     fadeIN = true
     
-
     [[params.links]]
         iconset = "fas"
         icon = "envelope"
