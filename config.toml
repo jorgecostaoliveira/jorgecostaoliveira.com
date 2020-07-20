@@ -8,11 +8,13 @@ theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 publishdir = "public"
 [markup.goldmark.renderer]
-    unsafe= true
+    unsafe = true
 [Author]
     name = "Jorge Oliveira"
 
 [params]
+
+    fadeIN = true
 
     [[params.links]]
         iconset = "fas"
