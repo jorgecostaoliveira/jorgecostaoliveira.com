@@ -15,9 +15,9 @@ publishdir = "public"
 [params]
 
 [params.colors]
-        background = "#8C9BA5"
+        background = "#8c9ba5"
         foreground = "#edf7ff"
-        hover = "#ffba82"
+        hover = "#82c7ff"
 
     fadeIN = true
     
