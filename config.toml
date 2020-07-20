@@ -1,0 +1,32 @@
+relativeURLs = true
+uglyURLs = true
+baseURL = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Jorge Oliveira"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+publishdir = "public"
+[markup.goldmark.renderer]
+    unsafe= true
+[Author]
+    name = "Jorge Oliveira"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:jorge@jorgecostaoliveira.com"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/jorgecostaoliveira"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://linkedin/jorgefilipeoliveira"
+        
