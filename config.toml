@@ -20,6 +20,7 @@ publishdir = "public"
         hover = "#ffba82"
 
     fadeIN = true
+    
 
     [[params.links]]
         iconset = "fas"
