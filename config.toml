@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 title = "Jorge Oliveira"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
-publishdir = "public"
+publishdir = "content"
 [markup.goldmark.renderer]
     unsafe = true
 [Author]
